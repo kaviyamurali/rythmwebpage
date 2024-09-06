@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+
+    padding: 30px;
+    font-size: 30px;
+    margin-top: -30px;
+
+}
+
+.slogan{
+
+    font-size: 24px;
+    margin-left: 6%;
+    margin-top: -15px;
+}
+
+.container{
+
+   
+    margin-bottom: 10px;
+    width: 50%;
+    background-image: linear-gradient(to left,rgba(12, 12, 12, 0),rgb(4, 1, 1));background-size: cover;
+    margin-left: 24%;
+    border-radius: 5% 0% 0% 0%;
+}
+
+.log{
+
+    font-size: 50px;
+    color: white;
+    padding: 20px;
+}
+
+.gicon{
+
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 20px;
+}
+.google{
+
+    padding: 15px;
+    width: 300px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.google:hover{
+
+    cursor: pointer;
+    border: 2px solid rgb(0, 0, 0);
+    
+}
+
+.ficon{
+
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 20px;
+}
+.facebook{
+
+    padding: 15px;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 30px;
+    
+}
+
+.facebook:hover{
+
+    cursor: pointer;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.aicon{
+
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+    background-color: black;
+    border-radius: 50%;
+    padding: 4px;
+    height: 20px;
+    width: 20px;
+}
+.apple{
+
+    padding: 15px;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.apple:hover{
+
+    cursor: pointer;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.line{
+
+    width: 60%;
+    height: 1px;
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+.continue{
+
+    margin-top: 30px;
+    margin-left: 30%;
+}
+
+.para{
+
+    margin-top: 50px;
+    margin-right: 110px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.details{
+
+    margin-top: -30px;
+}
+.username{
+
+    padding: 10px;
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.username:hover{
+
+    border: 2px solid black;
+}
+.pass{
+
+    margin-top: 30px;
+    margin-right: 185px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.password{
+
+    padding: 10px;
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.password:hover{
+
+    border: 2px solid black;
+}
+
+.login{
+
+    padding: 8px;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 32%;
+    background-color: #551A8B;
+    border: 2px solid #551A8B;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.parah{
+
+    margin-left: 30%;
+    padding: 20px;
+}
